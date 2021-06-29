@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/nameOfReposetory/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/nameOfReposetory/static/js/main.536bebd0.chunk.js",
-    "main.js.map": "/nameOfReposetory/static/js/main.536bebd0.chunk.js.map",
+    "main.js": "/nameOfReposetory/static/js/main.07540393.chunk.js",
+    "main.js.map": "/nameOfReposetory/static/js/main.07540393.chunk.js.map",
     "runtime-main.js": "/nameOfReposetory/static/js/runtime-main.77657cc7.js",
     "runtime-main.js.map": "/nameOfReposetory/static/js/runtime-main.77657cc7.js.map",
     "static/css/2.150d169a.chunk.css": "/nameOfReposetory/static/css/2.150d169a.chunk.css",
-    "static/js/2.371591b2.chunk.js": "/nameOfReposetory/static/js/2.371591b2.chunk.js",
-    "static/js/2.371591b2.chunk.js.map": "/nameOfReposetory/static/js/2.371591b2.chunk.js.map",
+    "static/js/2.0e9d6b31.chunk.js": "/nameOfReposetory/static/js/2.0e9d6b31.chunk.js",
+    "static/js/2.0e9d6b31.chunk.js.map": "/nameOfReposetory/static/js/2.0e9d6b31.chunk.js.map",
     "static/js/3.d6904eee.chunk.js": "/nameOfReposetory/static/js/3.d6904eee.chunk.js",
     "static/js/3.d6904eee.chunk.js.map": "/nameOfReposetory/static/js/3.d6904eee.chunk.js.map",
     "index.html": "/nameOfReposetory/index.html",
     "static/css/2.150d169a.chunk.css.map": "/nameOfReposetory/static/css/2.150d169a.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/nameOfReposetory/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.371591b2.chunk.js.LICENSE.txt": "/nameOfReposetory/static/js/2.371591b2.chunk.js.LICENSE.txt"
+    "static/js/2.0e9d6b31.chunk.js.LICENSE.txt": "/nameOfReposetory/static/js/2.0e9d6b31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.77657cc7.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.371591b2.chunk.js",
+    "static/js/2.0e9d6b31.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.536bebd0.chunk.js"
+    "static/js/main.07540393.chunk.js"
   ]
 }
